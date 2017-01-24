@@ -23,7 +23,7 @@ main:          /* ceci est l entree principale */
     bx lr      /* retour du principal */
 ```
 
-compiler le code source premier avec l'assembleur 'as' avec comme résultat (output -o) premier.o
+compiler le code source `premier` en assembleur 'as' avec comme résultat (output -o) premier.o
 ```
 $ as -o premier.o premier.s
 ```
