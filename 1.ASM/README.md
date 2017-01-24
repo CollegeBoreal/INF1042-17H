@@ -41,6 +41,7 @@ $ ./premier
 Éxécuter le resultat de la compilation `avec un retour`
 ```
 $ ./premier; echo $?
+2
 ```
 
 
