@@ -23,22 +23,22 @@ main:          /* ceci est l entree principale */
     bx lr      /* retour du principal */
 ```
 
-compiler le code source `premier` en assembleur 'as' avec comme résultat (output -o) premier.o
+compiler le code source `premier` en assembleur `as` avec comme résultat (output -o) `premier.o`
 ```
 $ as -o premier.o premier.s
 ```
 
-créer l'éxécutable avec gcc
+créer l'éxécutable avec le compilateur `gcc`
 ```
 $ gcc -o premier premier.o
 ```
 
-Éxécuter le resultat de la compilation (sans aucun retour d'afficher)
+Éxécuter le resultat de la compilation `sans aucun retour d'afficher`
 ```
 $ ./premier
 ```
 
-Éxécuter le resultat de la compilation avec un retour
+Éxécuter le resultat de la compilation `avec un retour`
 ```
 $ ./premier; echo $?
 ```
