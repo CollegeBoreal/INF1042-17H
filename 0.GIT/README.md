@@ -45,6 +45,7 @@ $ git push origin master
 $ git pull 
 ```
 
+# Configurer git
 
 ### .ssh/config
 ```
