@@ -47,3 +47,7 @@ $ ./premier; echo $?
 
 http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
 
+# Pour les ambitieux
+
+Programmer Tetris en assembleur   
+https://github.com/Tetris-Duel-Team/Tetris-Duel
