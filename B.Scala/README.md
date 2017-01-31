@@ -5,6 +5,9 @@
 http://docs.scala-lang.org/fr/cheatsheets/
 
 
+## Livres
+https://www.scala-lang.org/documentation/books.html
+
 ## Créateur 
 Martin Odersky EPFL
 
