@@ -1,6 +1,10 @@
-# INF1042-17H
+# Introduction à la programmation
 
-Introduction à la programmation
+* Devoirs
+
+[Devoirs](DEVOIRS.md)
+
+* Curriculum
 
 0.Test  
 1.Main  
