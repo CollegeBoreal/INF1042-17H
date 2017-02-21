@@ -15,4 +15,5 @@ Dans le livre Algorithme de Christos papadimitriou faites UN algorithme de votre
 
 * function modexp(x, y, N) - Mamoudou
 
+Le devoir peut etre rendu par un 'WorkSheet' (i.e. Devoir.sc) soumis par github
 
