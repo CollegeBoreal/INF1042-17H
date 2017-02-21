@@ -7,9 +7,9 @@
 
 Dans le livre Algorithme de Christos papadimitriou faites UN algorithme de votre choix
 
-* function addition(x, y) et addition( liste de nombres ) 
+* function addition(x, y) et addition( liste de nombres ) - Guellor
 
-* function soustraction(x, y) et soustraction( liste de nombres ) 
+* function soustraction(x, y) et soustraction( liste de nombres ) - Jean-Marie
 
 * function multiply(x, y) - Rassoul
 
