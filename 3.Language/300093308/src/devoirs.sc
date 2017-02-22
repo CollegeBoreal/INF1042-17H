@@ -8,3 +8,20 @@ def addition(x:Int,y: Int): Int = {
 
 }
 addition(2,5)
+
+
+
+
+
+
+
+
+val xs= List(1,2,3)
+
+def additionL(xs:List[Int]): Int = {
+
+  xs.sum
+
+
+}
+additionL(xs)
