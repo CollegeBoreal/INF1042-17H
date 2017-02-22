@@ -10,7 +10,7 @@
 |-----------:|:--------:|:-----------------------------------------------------|  
 |0.Test      | 1        | Installation de l'environnement                      |
 |2.WorkSheet | 2        |[2.WorkSheet#devoir](2.WorkSheet#devoir)              |
-|3.Language  | 3        |                                                      |
+|3.Language  | 3        |[3.Language#devoir](3.Language#devoir)                                                      |
 |4.Main      | 4        |                                                      |
 |5.SbtMain   | 5        |                                                      |
 |6.OOP       | `6`        |                                                      |
