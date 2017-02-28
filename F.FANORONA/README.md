@@ -24,7 +24,7 @@ Fanorona is written in Java. Its UI Component is an Applet and mostly uses AWT;
 
 
 * Strategy and board game programming  - David Eppstein's Courses at UCI - Lecture notes April 22, 1997  
-* Alpha-Beta Search  - David Eppstein's Courses at UCI  
+* [Alpha-Beta Search](http://www.ics.uci.edu/~eppstein/180a/970422.html)  - David Eppstein's Courses at UCI  
 * Recherche arborescente Bruno Bouzy - Universite Rene Descartes  
 [Fixed-depth Minimax Tree Search](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA2/Minimax-AlfaBeta-Bouzy.pdf)
 
