@@ -28,7 +28,7 @@ Fanorona is written in Java. Its UI Component is an Applet and mostly uses AWT;
 * `Recherche arborescente` [Fixed-depth Minimax](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA2/Minimax-AlfaBeta-Bouzy.pdf) Bruno Bouzy - Universite Rene Descartes 
 
 
-# Devoirs
+# Devoir
 
 - UI and Separation du Moteur de Recherche
 
