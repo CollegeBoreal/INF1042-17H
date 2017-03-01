@@ -33,7 +33,7 @@ import gui.widgets.panels.FlatPanel;
 import gui.widgets.panels.TabPanel;
 import gui.widgets.panels.TextPanel;
 
-public class Fanorona extends Applet implements Undo {
+public class v nFanorona extends Applet implements Undo {
 	/**
 	 * 
 	 */
