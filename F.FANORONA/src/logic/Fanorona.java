@@ -33,13 +33,15 @@ import gui.widgets.panels.FlatPanel;
 import gui.widgets.panels.TabPanel;
 import gui.widgets.panels.TextPanel;
 
-public class Fanorona extends Applet implements Undo {
+public class 	Fanorona extends Applet implements Undo {
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 5582368128771697950L;
 
 	Game game = null;
+
+	// TODO Faire la conversion en Scala
 
 	public String getAppletInfo() {
 		return "Game of Fanorona. David Eppstein, ICS, UC Irvine, June 1997.";
