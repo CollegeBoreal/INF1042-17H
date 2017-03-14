@@ -19,6 +19,15 @@
 |9.3D        | 9        |                                                      |
 
 
+- Functional Programming
+-Type Inference
+- GC (Garbage Collector) - Éboueur
+- Immutability (MUTEX)
+- HOF (Higher-Order Function) - pass by value and by name
+- [Data Structure](https://twitter.github.io/scala_school/collections.html)
+- Pattern Matching
+
+
 # Bluejeans
 
 ID Réunion: 300098957
