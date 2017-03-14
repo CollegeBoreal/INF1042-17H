@@ -7,7 +7,7 @@ def addition(x:Int,y: Int): Int = {
 
 
 }
-addition(2,5)
+addition(2,0)
 
 
 
