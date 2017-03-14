@@ -3,7 +3,7 @@ def addition(x:Int,y: Int): Int = {
   if (y==0) return 0
   x+y
 }
-addition(2,5)
+addition(2,0)
 
 val xs= List(1,2,3)
 
