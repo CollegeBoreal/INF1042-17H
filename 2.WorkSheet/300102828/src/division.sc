@@ -1,8 +1,17 @@
-def divide(x: Int , y: Int) = {
-  val q= x/y; val r = x/y - val q
-  if x== 0 val (q,r)=(0,0)
-  val (q,r)= divide([x: Int /2],y: Int)
-  
+def divide(x: Int , y: Int):(Int,Int) = {
+   if (x ==0) 0
+   val (q,r)= divide(x/2,y)
+//  val q=2*q
+//  val r=2*r
+//   if (x%2!=0) r+1
+//   if (r>=y) r-y,=q+1
+
+  val (q1,r1) =
+  if (x%2!=0) (2*q,2*r+1)
+  else (2*q,2*r)
+
+  if (r1>=y) (q+1,r-y)
+  else (q1,r1)
 }
 
 
