@@ -6,6 +6,8 @@ https://twitter.github.io/scala_school/collections.html
 
 https://www.youtube.com/watch?v=q6M_pco_5Vo
 
+## Example
+
 ![alt tag](WaterPouring.png)
 
 
