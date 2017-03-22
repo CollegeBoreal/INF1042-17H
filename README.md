@@ -6,17 +6,23 @@
 
 * Curriculum
 
-| Theme      | Semaine  | Sujet                                                |
-|-----------:|:--------:|:-----------------------------------------------------|  
-|0.Test      | 1        | Installation de l'environnement                      |
-|2.WorkSheet | 2        |[2.WorkSheet#devoir](2.WorkSheet#devoir)              |
-|3.Language  | 3        |[3.Language#devoir](3.Language#devoir)                                                      |
-|4.Main      | 4        |                                                      |
-|5.SbtMain   | 5        |                                                      |
-|6.OOP       | `6`        |                                                      |
-|7.Projet    | 7        |                                                      |
-|8.BD        | 8        |                                                      |
-|9.3D        | 9        |                                                      |
+| Semaine    | Theme       | Sujet                                                |
+|-----------:|:-----------:|:-----------------------------------------------------|  
+| 1          | 0.Test      | Installation de l'environnement                      |
+| 2          | 2.WorkSheet | [2.WorkSheet#devoir](2.WorkSheet#devoir)             |
+| 3          | 3.Language  | [3.Language#devoir](3.Language#devoir)               |
+| 4          | 4.Main      |                                                      |
+| 5          | 5.SbtMain   |                                                      |
+| 6          | 6.OOP       |                                                      |
+| 7          | 7.Projet    |                                                      |
+| 8          | 8.BD        |                                                      |
+| 9          | 9.3D        |                                                      |
+|10          | 9.3D        |                                                      |
+|11          | 9.3D        |                                                      |
+|12          | 9.3D        |                                                      |
+|13          | 9.3D        |                                                      |
+|14          | 9.3D        |                                                      |
+|15          | 9.3D        |                                                      |
 
 
 - Functional Programming
