@@ -6,23 +6,23 @@
 
 * Curriculum
 
-| Semaine    | Theme       | Sujet                                                |
-|-----------:|:-----------:|:-----------------------------------------------------|  
-| 1          | 0.Test      | Installation de l'environnement                      |
-| 2          | 2.WorkSheet | [2.WorkSheet#devoir](2.WorkSheet#devoir)             |
-| 3          | 3.Language  | [3.Language#devoir](3.Language#devoir)               |
-| 4          | 4.Main      |                                                      |
-| 5          | 5.SbtMain   |                                                      |
-| 6          | 6.OOP       |                                                      |
-| 7          | 7.Projet    |                                                      |
-| 8          | 8.BD        |                                                      |
-| 9          | 9.3D        |                                                      |
-|10          | 9.3D        |                                                      |
-|11          | 9.3D        |                                                      |
-|12          | 9.3D        |                                                      |
-|13          | 9.3D        |                                                      |
-|14          | 9.3D        |                                                      |
-|15          | 9.3D        |                                                      |
+| Semaine    | Theme             | Sujet                                                |
+|-----------:|:-----------------:|:-----------------------------------------------------|  
+| 1          |  0.Test           | Installation de l'environnement                      |
+| 2          |  1.ASM            | Mon premier programme en assembleur                  |
+| 3          |  2.WorkSheet      | [2.WorkSheet#devoir](2.WorkSheet#devoir)             |
+| 4          |  3.Language       | [3.Language#devoir](3.Language#devoir)               |
+| 5          |  4.Variables      | Type de variables: Chaine De Characteres, Characteres, Création de type en Scala? |
+| 6          |  5.Main           | Main, HOF (Higher Order Function), Conditions                                     |
+| 7          |  6.SDLC           |                                                      |
+| 8          |  7.Algorithme     |                                                      |
+| 9          |  8.Datastructure  |                                                      |
+|10          |  9.LOOP           | for, pattern matching                                |
+|11          | 10.OOP            |                                                      |
+|12          | 11.BD             |                                                      |
+|13          | 12.BD             |                                                      |
+|14          | 13.Projet         |                                                      |
+|15          | Fin des cours     |                                                      |
 
 
 - Functional Programming
