@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=q6M_pco_5Vo
 
 ## Devoir
 
-Imprimer les solutions ci-dessous
+Avec les connaissances que vous avez aujourd'hui, imprimer les solutions du probleme ci-dessous.
 
 ![alt tag](WaterPouring.png)
 
