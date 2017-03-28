@@ -6,9 +6,12 @@
 
 ## Devoir
 
-Rechercher le livre d'algorithme:
+* Rechercher le livre d'algorithme: 
 
 Criteres: algorithm christos papadimitriou
+
+http://www.cse.iitd.ernet.in/~naveen/courses/CSL630/all.pdf
+
 
 Écrire le programme de la suite de Fibonacci avec une entrée en mémoire
 
