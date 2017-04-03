@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="003efc50-8cb1-45ea-b70e-b471539bdfb7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+=======
     <list default="true" id="346faeda-e6a0-411e-be1c-86a71aedfb55" name="Default" comment="" />
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +18,12 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+<<<<<<< HEAD
+=======
   <component name="FileEditorManager">
     <leaf />
   </component>
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -28,12 +36,22 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+=======
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -47,6 +65,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+=======
       <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
@@ -58,6 +87,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../2.WorkSheet" />
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -67,6 +97,8 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -122,6 +154,7 @@
       </Profilers>
       <method />
     </configuration>
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -145,6 +178,8 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -300,6 +335,7 @@
       <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -321,6 +357,8 @@
       <patterns />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
@@ -376,6 +414,7 @@
       <envs />
       <method />
     </configuration>
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -384,6 +423,8 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -424,6 +465,7 @@
       <envs />
       <method />
     </configuration>
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -452,6 +494,8 @@
       <listeners />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -491,6 +535,7 @@
       <envs />
       <method />
     </configuration>
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -500,6 +545,20 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+<<<<<<< HEAD
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="003efc50-8cb1-45ea-b70e-b471539bdfb7" name="Default" comment="" />
+      <created>1489975518855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489975518855</updated>
+      <workItem from="1489975523512" duration="571000" />
+      <workItem from="1489976139372" duration="99000" />
+=======
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="346faeda-e6a0-411e-be1c-86a71aedfb55" name="Default" comment="" />
@@ -509,14 +568,22 @@
       <updated>1490729748768</updated>
       <workItem from="1490729750385" duration="161000" />
       <workItem from="1490752348889" duration="62000" />
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="670000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+=======
     <option name="totallyTimeSpent" value="223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -533,7 +600,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -559,6 +630,8 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+<<<<<<< HEAD
+=======
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../8.Datastructure/300102828/300102828.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -568,4 +641,5 @@
       </provider>
     </entry>
   </component>
+>>>>>>> aa6ec6b4393917909f30a73741a376b0b44286eb
 </project>
