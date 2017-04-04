@@ -18,10 +18,10 @@
 | 8          |  7.Algorithme     |                                                      |
 | 9          |  8.Datastructure  |                                                      |
 |10          |  9.LOOP           | for, pattern matching                                |
-|11          | 10.OOP            |                                                      |
-|12          | 11.PATMAT         | Huffman                                              |
-|13          | 12.BD             |                                                      |
-|14          | 13.Projet         |                                                      |
+|11          | 90.OOP            |                                                      |
+|12          | 91.PATMAT         | Huffman                                              |
+|13          | 92.BD             |                                                      |
+|14          | 93.Projet         |                                                      |
 |15          | Fin des cours     |                                                      |
 
 
