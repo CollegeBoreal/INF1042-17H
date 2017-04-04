@@ -13,7 +13,7 @@ def divide(x: Int , y: Int):(Int,Int) = {
   if (r1>=y) (q+1,r-y)
   else (q1,r1)
 }
-
+trait = FormeGeometrique
 
 class Carre(cote: Int) extends FormeGeometrique {
 def aire(): Int = cote*cote
