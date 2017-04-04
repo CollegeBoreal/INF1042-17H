@@ -1,2 +1,5 @@
 # IntelliJ
 out
+.idea
+
+target/
