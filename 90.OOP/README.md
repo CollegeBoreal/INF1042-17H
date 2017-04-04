@@ -1,3 +1,8 @@
+# Devoir
+
+> Continuer le programme en rajoutant le rectangle et le cercle dans le calcul de l'aire
+
+
 # OOP (Object Oriented Programming)
 
 Définition:
