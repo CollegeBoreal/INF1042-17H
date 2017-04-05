@@ -28,6 +28,5 @@ object Main {
 
     println("le secret est:" + decodedSecret)
 
-
   }
 }
