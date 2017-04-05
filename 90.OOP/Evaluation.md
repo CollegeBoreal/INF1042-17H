@@ -28,7 +28,7 @@ A rendre pour le 4 Avril 2017.
 3. Conversion en Int et Compile
 
 ## ATT (Attitude envers l'adversité)
-1. Rendu a l'avance
+1. Rendu a l'avance et questions pour resoudre le probleme
 
 ## Notation 
 
