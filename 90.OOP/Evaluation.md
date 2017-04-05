@@ -10,7 +10,7 @@
     -[ ] Rajouter 2 autres formes geometriques
         * le triangle 
         * le cercle
-        * calcult de l'aire
+        * calcul de l'aire
 
 A rendre pour le 4 Avril 2017.
 
