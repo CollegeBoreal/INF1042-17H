@@ -17,9 +17,9 @@ A rendre pour le 4 Avril 2017.
 ## COD (Codage)
 
 1. Trait FormGeometrique
-2. Creation de 2 figures Carre et Rectangle.
-3. Calcul de l'aire
-4. Compile
+   Creation de 2 figures Carre et Rectangle.   
+   Calcul de l'aire
+   Compile
 
 ## REC (Recherche )
 
@@ -34,9 +34,9 @@ A rendre pour le 4 Avril 2017.
 
 (1 Faible - 5 Tres Bon)
 
-| ID        |COD1|COD2|COD3|COD4|REC1|REC2|REC3|ATT1|  Comments    (7 * 5 = 35)             |
-|----------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|---------------------------------------|  
-| 300093308 | 3  | 3  | 3  |  3 |  4 | 3  |  0 |  4 |                                       |  
-| 300102828 | 3  | 3  | 3  |  3 |  4 | 3  |  0 |  5 |                                       |  
+| ID        |COD1|REC1|REC2|REC3|ATT1|  Comments    (5 * 5 = 25)             |
+|----------:|:--:|:--:|:--:|:--:|:--:|---------------------------------------|  
+| 300093308 | 5  |  4 | 3  |  0 |  4 |                                       |  
+| 300102828 | 5  |  4 | 3  |  0 |  5 |                                       |  
 
 
