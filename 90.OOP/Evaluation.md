@@ -16,10 +16,10 @@ A rendre pour le 4 Avril 2017.
 
 ## COD (Codage)
 
-1. Trait FormGeometrique
+1. Trait FormGeometrique  
    Creation de 2 figures Carre et Rectangle.   
-   Calcul de l'aire
-   Compile
+   Calcul de l'aire  
+   Compile  
 
 ## REC (Recherche )
 
