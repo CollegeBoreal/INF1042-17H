@@ -22,12 +22,14 @@ class Cercle(Pi: Int, rayon: Int) extends FormeGeometrique {
   def aire(): Int = Pi*rayon*rayon
 }
 
-val balle = new Cercle(Pi = 3,14,4)
+// --TODO La fonction Math.PI doit entre convertie en Int
+// --TODO La virgule en Anglais est remplacee par un point
+val balle = new Cercle(Pi = Math.PI.toInt,4)
 
-val aires = List[FormeGeometrique] (salle,fan,piramide,balle) {
+val aires = List[FormeGeometrique] (salle,fan,piramide,balle) // { --TODO Pourquoi des parentheses) BR
 
     aires.map(_.aire()).sum
-  }
+// { --TODO Pourquoi des parentheses? BR
 
 
 

@@ -16,7 +16,10 @@ class Triangle(base: Int, hauteur: Int)extends FormeGeometrique{
 }
 val panneau = new Triangle(4,3)
 class Cercle(rayon: Double) extends FormeGeometrique{
-  def aire(): Double = 3.14*(rayon*rayon)
+//  def aire(): Double = 3.14*(rayon*rayon)
+  //--TODO l'override doit etre de la meme signature
+  //--TODO Il faut donc convertir en Int
+    def aire(): Int = (Math.PI*(rayon*rayon)).toInt
 }
 val montre = new Cercle(2)
 val aires = List[FormeGeometrique](fan,salle,panneau,montre)
