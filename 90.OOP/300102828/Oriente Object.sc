@@ -15,8 +15,9 @@ class Triangle(base: Int, hauteur: Int)extends FormeGeometrique{
   def aire(): Int = (base*hauteur)/2
 }
 val panneau = new Triangle(4,3)
-class Cercle(rayon: Double) extends FormeGeometrique{
-  def aire(): Double = 3.14*(rayon*rayon)
+class Cercle(rayon:  Double) extends FormeGeometrique{
+
+  def aire(): Double = Math.PI *(rayon*rayon)
 }
 val montre = new Cercle(2)
 val aires = List[FormeGeometrique](fan,salle,panneau,montre)
