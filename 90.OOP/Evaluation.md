@@ -21,20 +21,22 @@ A rendre pour le 4 Avril 2017.
 3. Calcul de l'aire
 4. Compile
 
-## REC (Recherche et attitude envers l'adversité)
+## REC (Recherche )
 
 1. Triangle
 2. Cercle incluant Math.PI
-3. Conversion en Int
-4. Compile
+3. Conversion en Int et Compile
+
+## ATT (Attitude envers l'adversité)
+1. Rendu a l'heure
 
 ## Notation 
 
 (1 Faible - 5 Tres Bon)
 
-| ID        |COD1|COD2|COD3|COD4|REC1|REC2|REC3|REC4|  Comments    (7 * 5 = 35)             |
+| ID        |COD1|COD2|COD3|COD4|REC1|REC2|REC3|ATT1|  Comments    (7 * 5 = 35)             |
 |----------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|---------------------------------------|  
-| 300093308 | 3  | 3  | 3  |  3 |  4 | 3  |  0 |  0 |                                       |  
-| 300102828 | 3  | 3  | 3  |  3 |  4 | 3  |  0 |  0 |                                       |  
+| 300093308 | 3  | 3  | 3  |  3 |  4 | 3  |  0 |  4 |                                       |  
+| 300102828 | 3  | 3  | 3  |  3 |  4 | 3  |  0 |  5 |                                       |  
 
 
