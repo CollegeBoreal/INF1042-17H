@@ -22,11 +22,21 @@ object Main {
     println("Décoder le message secret suivant: ",secret)
 
     /**
-      * Écrire une fonction qui retourne le code secret
+      * Écrire une fonction qui retourne le code secret en clair
       */
     def decodedSecret: List[Char] = Huffman.decode(Langues.frenchCode,secret)
 
     println("le secret est:" + decodedSecret)
+
+    /**
+      * Écrire une fonction qui retourne le code secret
+      */
+    val clair: List[Char] = List('J','e','a','n','M','a','r','i','e')
+
+    def encodedSecret: List[Bit] = Huffman.encode(Langues.frenchCode)(clair)
+
+    println("le code secret est:" + encodedSecret)
+
 
   }
 }
