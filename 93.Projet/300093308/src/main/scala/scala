@@ -1,0 +1,43 @@
++object Main {
++  def main(args: Array[String]): Unit = {
+
+val = tri_casier(tableau T)
+     debut
+         entier min, max, longueur, longueur2, compteur, i
+         tableau T2
+
+         longueur<-taille(T)
+
+         //recherche des valeurs min et max
+         min<-T(0)
+         max<-min
+
+         pour i=1 à (longueur-1) faire
+             si T(i)<min alors min<-T(i) fin si
+             si T(i)>max alors max<-T(i) fin si
+         fin pour
+
+         //construction du tableau intermédiaire
+         longueur2<-(max-min+1)
+         taille(T2)<-longueur2
+
+         //initialisation du tableau intermédiaire à 0
+         pour i=0 à (longueur2-1) faire T2(i)<-0 fin pour
+
+         //comptabilisation du nombre d'occurences de chaque entier dans le tableau
+         pour i=0 à (longueur-1) faire
+             T2(T(i)-min)<-( T2(T(i)-min)+1 )
+         fin pour
+
+         //reconstitution du tableau initial classé
+         compteur<-0;
+         pour i=0 à (longueur2-1) faire
+             tantque T2(i)>0
+                 T(compteur)<-(min+i) //affectation de sa valeur à la case n°compteur du tableau
+                 T2(i)<-( T2(i)-1 ) //decrementation du nombre de fois où la valeur a été utilisée
+                 compteur<-compteur+1 //passage à la case suivante
+             fin tantque
+         fin pour
+     fin
++  }
++}
