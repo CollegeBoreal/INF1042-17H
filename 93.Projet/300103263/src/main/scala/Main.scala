@@ -5,6 +5,8 @@ object Main {
     println("hello, world")
     val fan=new Carre(8)
 println (fan.aire())
+    println(fan.volume())
   }
+
 }
 

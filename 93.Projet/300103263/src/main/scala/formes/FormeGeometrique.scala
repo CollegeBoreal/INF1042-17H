@@ -12,4 +12,5 @@ trait FormeGeometrique{
 }
 class Carre(cote: Int) extends FormeGeometrique {
   def aire(): Int = cote * cote
+  def volume(): Int =cote *cote*cote
 }
