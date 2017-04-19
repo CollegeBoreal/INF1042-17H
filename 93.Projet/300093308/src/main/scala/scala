@@ -1,9 +1,10 @@
  object Main {
    def main(args: Array[String]): Unit = {
 
- val = tri_bulle(tableau T)
-      debut
-          entier longueur, i
+ resultat = tri_bulle(tableau T){
+
+ }
+         entier longueur, i
           booleen inversion
 
           longueur<-taille(T)
@@ -13,12 +14,8 @@
               pour i=0 à (longueur-1)
                   si T(i)>T(i+1)
                       echanger(T,i,i+1)
-                      inversion<-vrai
-                  fin si
-              fin pour
-          tantque inversion
-      fin
-
+                      inversion<-vrai{
+}
 
   tri_bulle_optimise(tableau T)
       debut
@@ -35,10 +32,6 @@
                       inversion<-vrai
                   fin si
                   longueur<-longueur-1
-              fin pour
-          tantque inversion
-      fin
 
-+
    }
  }
