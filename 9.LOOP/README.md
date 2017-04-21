@@ -2,10 +2,6 @@
 
 https://twitter.github.io/scala_school/collections.html
 
-# Eau
-
-https://www.youtube.com/watch?v=q6M_pco_5Vo
-
 ## NP-Completude Algorithme
 
 https://www.gerad.ca/~alainh/NP-completude.pdf
