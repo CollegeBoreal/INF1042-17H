@@ -16,6 +16,11 @@ Avec les connaissances que vous avez aujourd'hui, imprimer les solutions du prob
 
 ![alt tag](WaterPouring.png)
 
+[![alt text][2]][1]
+
+  [1]: https://meta.stackoverflow.com/users/44330/jason-s
+  [2]: https://www.gravatar.com/avatar/dd57e..dfd07?s=128&d=identicon&r=PG (hover text)
+
 
 ---
 
