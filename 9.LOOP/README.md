@@ -14,7 +14,7 @@ https://www.gerad.ca/~alainh/NP-completude.pdf
 
 Avec les connaissances que vous avez aujourd'hui, imprimer les solutions du probleme ci-dessous.
 
-[![alt text][2]][1]
+[![alt text](2)][1]
 
   [1]: https://www.youtube.com/watch?v=q6M_pco_5Vo
   [2]: (WaterPouring.png) (Water Pouring Image)
