@@ -14,10 +14,10 @@ https://www.gerad.ca/~alainh/NP-completude.pdf
 
 Avec les connaissances que vous avez aujourd'hui, imprimer les solutions du probleme ci-dessous.
 
-[![alt tag](2)][1]
+[![alt tag](WaterPouring.png)(Water Pouring Image)][1]
 
   [1]: https://www.youtube.com/watch?v=q6M_pco_5Vo
-  [2]: (WaterPouring.png) (Water Pouring Image)
+ 
 
 
 ---
