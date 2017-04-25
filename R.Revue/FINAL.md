@@ -2,7 +2,7 @@
 
 
 Scala:  
-http://docs.scala-lang.org/fr/cheatsheets/
+[B.Scala](../B.Scala)
 
 Structure de Données:  
 https://twitter.github.io/scala_school/collections.html
