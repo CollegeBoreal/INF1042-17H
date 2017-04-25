@@ -31,10 +31,10 @@ class Bits {
   val TWOS: Long = 0x3333333333333333L
   val  FOURS: Int = 0x0f0f0f0f
   def count( set: Long) {
-    set -= (set >>> 1) & ONES
-    set = (set & TWOS) + ((set >>> 2) & TWOS)
+   val set1 = -(set >>> 1) & ONES
+   val set2 = (set1 + (set & TWOS)) + (set1 + ((set >>> 2) & TWOS))
     int result = (int) set + (int) (set >>> 32)
-    return (((result & FOURS) + ((result >>> 4) & FOURS)) * 0x01010101) >>> 24
+    (((result & FOURS) + ((result >>> 4) & FOURS)) * 0x01010101) >>> 24
   }
 
 
