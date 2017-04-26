@@ -3,7 +3,7 @@ package logic.board
 /**
   * Created by to-boreal on 19-04-17.
   */
-class Bits {
+object Bits {
 
   val IS_WHITE: Long = 0x4000000000000000L
   val CAPTURED: Long = 0x8000000000000000L
@@ -20,8 +20,8 @@ class Bits {
   def at ( row: Int ,col: Int ) {
     return 1L << (10 * (4-row)) +(8 - col);
   }
-  def lastBit(bitboard: Long) {
-    return bitboard & - bitboard
+  def lastBit(bitboard: Long) = {
+     bitboard & - bitboard
   }
   val SHIFT_VERTICAL: Int = 10
   val SHIFT_HORIZONTAL: Int = 1
@@ -30,13 +30,13 @@ class Bits {
   val ONES: Long = 0x5555555555555555L
   val TWOS: Long = 0x3333333333333333L
   val  FOURS: Int = 0x0f0f0f0f
-  def count( set: Long) {
+  def count( set: Long) = {
    val set1 = -(set >>> 1) & ONES
-   val set2 = (set1 + (set & TWOS)) + (set1 + ((set >>> 2) & TWOS))
-    int result = (int) set + (int) (set >>> 32)
+   val set2 = (set1 + (set1 & TWOS)) + (set1 + ((set1 >>> 2) & TWOS))
+   val result: Long = set2 + (set2 >>> 32)
     (((result & FOURS) + ((result >>> 4) & FOURS)) * 0x01010101) >>> 24
-  }
 
+  }
 
 }
 
