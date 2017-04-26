@@ -31,8 +31,6 @@ class Carre(cote: Int) extends FormeGeometrique {
   class Cercle(rayon:  Double) extends FormeGeometrique {
 
 
-    class Cercle(rayon: Double) extends FormeGeometrique
-    {
       def volume(): Int = (4 * Math.PI * (rayon * rayon)) toInt
     }
 
