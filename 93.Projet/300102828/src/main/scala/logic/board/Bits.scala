@@ -17,8 +17,8 @@ object Bits {
   val DIAGONAL: Long = 0x0543722537261L
   val ON_BOARD: Long = 0x0770773106426L
   val CENTER: Long = 0x0000000001140000000L
-  def at ( row: Int ,col: Int ) {
-    return 1L << (10 * (4-row)) +(8 - col);
+  def at ( row: Int ,col: Int ) = {
+     1L << (10 * (4-row)) +(8 - col);
   }
   def lastBit(bitboard: Long) = {
      bitboard & - bitboard
