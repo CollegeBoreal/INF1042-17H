@@ -1,0 +1,34 @@
+
+ class  ApplicationTriBulle
+ object  ApplicationTriBulle
+  {
+   static  int [] table  =  new  int [10]  ;  // le tableau è trier en attribut
+   val table  =  Array[Int](1,5,2,7,9,4,5,6)  ;  // le tableau è trier en attribut
+
+   object  Initialisation   ( )    {
+   def Initialisation( ): Seq[Double] = {
+      // remplissage aléatoire du tableau
+     int  n  =  table.length - 1 ;
+     for (  int  i  =  1 ;  i <= n ;  i ++ )
+     table[i]  =  ( int )( Math.random () * 100 );
+
+     (1 to 10).map( x => Math.random () * 100 )
+     }
+
+   object  main ( String [ ] args )    {
+     Initialisation  ( );
+     System.out.println ("Tableau initial :");
+     Impression  ( );
+     TriBulle  ( );
+  System.out.println ("Tableau une fois trié :");
+     Impression  ( );
+
+   def main(args: Array[String]): Unit = {
+     val tableau = Initialisation  ( );
+     println ("Taille du Tableau initial :", tableau.size);
+     Impression  ( );
+     TriBulle  ( );
+     println ("Tableau une fois trié :");
+     Impression  ( );
+    }
+  }
