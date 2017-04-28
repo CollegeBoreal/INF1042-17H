@@ -23,8 +23,9 @@ class Carre(cote: Int) extends FormeGeometrique {
     def volume(): Int = longueur*largeur*hauteur
 
   }
-  class Triangle(base: Int, hauteur: Int)extends FormeGeometrique{
-    def volume(): Int = (base*hauteur)/2*(hauteur/3)
+  class Triangle( cote: Int, hauteur: Int)extends FormeGeometrique{
+
+    def volume(): Int = (cote*cote*hauteur)/3
   }
 
 

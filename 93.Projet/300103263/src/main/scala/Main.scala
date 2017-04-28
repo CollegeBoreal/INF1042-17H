@@ -7,7 +7,7 @@ object Main {
       println(fan.volume())
       val salle = new Rectangle(10, 14, 11)
       println(salle.volume())
-      val panneau = new Triangle(4, 7)
+      val panneau = new Triangle(4, 7 )
       println(panneau.volume())
       val montre = new Cercle(2)
       println(montre.volume())
