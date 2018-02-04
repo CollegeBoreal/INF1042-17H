@@ -11,7 +11,7 @@ Assurez vous que vous pointez sur le répertoire src pour utiliser les images
 
 Fanorona is written in Java. Its UI Component is an Applet and mostly uses AWT;
 - A StackLayout is a LayoutManager that arranges components in a vertical (or horizontal)  
-- A [64 BitSet](docs/Fanorona%20Bits%20Explanation.xls) allowing Data Representation and Manipulation of the board. 
+- A [64 BitSet](docs/Fanorona%20Bits%20Explanation.xls?raw=true) allowing Data Representation and Manipulation of the board. 
 - A Tree Game Search using the [Alpha-Beta](https://chessprogramming.wikispaces.com/Alpha-Beta) Pruning search implementing: 
     * a mini-max evaluation
     * a Transposition Table
