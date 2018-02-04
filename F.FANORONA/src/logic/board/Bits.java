@@ -20,20 +20,32 @@ package logic.board;
 // and evaluation.
 
 public abstract class Bits {
-	public static final long IS_WHITE = 0x4000000000000000L; // 1L << 62
-	public static final long CAPTURED = 0x8000000000000000L; // 1L << 63; sign
-																// bit speeds
-																// tests
-	// OCTAL Annotation
-	public static final long INITIAL_BOT = 000000001225776777L;
-	public static final long INITIAL_TOP = 017767772450000000L;
-	public static final long TOP_ROW = 017760000000000000L;
-	public static final long BOTTOM_ROW = 000000000000000777L;
-	public static final long LEFT_COL = 010004002001000400L;
-	public static final long RIGHT_COL = 000020010004002001L;
-	public static final long DIAGONAL = 012522522524524525L;
-	public static final long ON_BOARD = 017767773775776777L;
-	public static final long CENTER = 000000000760000000L;
+	public static final long IS_WHITE       = 0x4000000000000000L; // 1L << 62
+	public static final long CAPTURED       = 0x8000000000000000L; // 1L << 63; sign
+                                                                   // bit speeds
+																   // tests
+    // HEX Annotation
+    public static final long INITIAL_TOP	= 0x0001ff7fd4a00000L;
+    public static final long INITIAL_BOT	= 0x000000000a57fdffL;
+    public static final long TOP_ROW		= 0x0001ff0000000000L;
+    public static final long BOTTOM_ROW		= 0x00000000000001ffL;
+    public static final long LEFT_COL		= 0x0001004010040100L;
+    public static final long RIGHT_COL		= 0x0000010040100401L;
+    public static final long DIAGONAL		= 0x0001552a9552a955L;
+    public static final long ON_BOARD       = 0x0001ff7fdff7fdffL;
+    public static final long CENTER		    = 0x0000000007c00000L;
+
+	// OCTAL Annotation (no longer used)
+	public static final long INITIAL_BOT_8 = 000000001225776777L;
+	public static final long INITIAL_TOP_8 = 017767772450000000L;
+	public static final long TOP_ROW_8 = 017760000000000000L;
+	public static final long BOTTOM_ROW_8 = 000000000000000777L;
+	public static final long LEFT_COL_8 = 010004002001000400L;
+	public static final long RIGHT_COL_8 = 000020010004002001L;
+	public static final long DIAGONAL_8 = 012522522524524525L;
+	public static final long ON_BOARD_8 = 017767773775776777L;
+	public static final long CENTER_8 = 000000000760000000L;
+
 
 	// turn screen coordinates into bit position
 	public static final long at(int row, int col) {

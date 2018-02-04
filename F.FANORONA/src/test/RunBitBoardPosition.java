@@ -27,7 +27,7 @@ public class RunBitBoardPosition {
 
 
 		System.out.println("-------------------------------------------------------");
-		System.out.println("Displays in OCTAL ");
+		System.out.println("Displays in HEX ");
 		System.out.println("INITIAL_TOP: "+Bits.INITIAL_TOP);
 		System.out.println("INITIAL_BOT: "+Bits.INITIAL_BOT);
 		System.out.println("TOP_ROW: "+Bits.TOP_ROW);
@@ -57,7 +57,19 @@ public class RunBitBoardPosition {
 		System.out.println("CENTER		: "+130023424L);
 
 	}
-	
+
+    public void octal2Long() {
+        System.out.println("INITIAL_TOP		: "+(Bits.INITIAL_TOP - Bits.INITIAL_TOP_8));
+        System.out.println("INITIAL_BOT		: "+(Bits.INITIAL_BOT - Bits.INITIAL_BOT_8));
+        System.out.println("TOP_ROW		    : "+(Bits.TOP_ROW - Bits.TOP_ROW_8));
+        System.out.println("BOTTOM_ROW		: "+(Bits.BOTTOM_ROW - Bits.BOTTOM_ROW_8));
+        System.out.println("LEFT_COL		: "+(Bits.LEFT_COL - Bits.LEFT_COL_8));
+        System.out.println("RIGHT_COL		: "+(Bits.RIGHT_COL - Bits.RIGHT_COL_8));
+        System.out.println("DIAGONAL		: "+(Bits.DIAGONAL - Bits.DIAGONAL_8));
+        System.out.println("ON_BOARD		: "+(Bits.ON_BOARD - Bits.ON_BOARD_8));
+        System.out.println("CENTER		    : "+(Bits.CENTER - Bits.CENTER_8));
+
+    }
 
 	
 	public static void main(String [ ] args) {
@@ -65,6 +77,7 @@ public class RunBitBoardPosition {
 		RunBitBoardPosition run = new RunBitBoardPosition();
 		run.testBits();
 		run.boardNumbers();
+        run.octal2Long();
 
 	}
 
